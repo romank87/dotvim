@@ -1,7 +1,5 @@
 syntax enable
-
 set nocompatible
-
 filetype plugin on
 
 set tabstop=4
