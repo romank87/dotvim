@@ -1,4 +1,5 @@
 execute pathogen#infect()
+
 syntax enable
 set nocompatible
 filetype plugin on
