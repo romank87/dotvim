@@ -9,6 +9,7 @@ call vundle#rc()
 Bundle 'gmarik/vundle'
 
 Bundle 'bufexplorer.zip'
+Bundle 'zathras/a.vim'
 
 " My Bundles here:
 "
