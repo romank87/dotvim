@@ -9,5 +9,6 @@ Bundle 'gmarik/vundle'
 
 Bundle 'bufexplorer.zip'
 Bundle 'zathras/a.vim'
+Bundle 'jimenezrick/vimerl'
 
 filetype plugin indent on
