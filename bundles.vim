@@ -8,6 +8,9 @@ call vundle#rc()
 " required! 
 Bundle 'gmarik/vundle'
 
+Bundle 'a.vim'
+Bundle 'bufexplorer.zip'
+
 " My Bundles here:
 "
 " original repos on github
