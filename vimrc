@@ -59,6 +59,10 @@ nmap <C-Down> ddp
 vmap <C-Up> xkP`[V`]
 vmap <C-Down> xp`[V`]
 
+"persistent undo
+set undofile
+set undodir=~/.undovim
+
 
 set makeprg=bjam
 
