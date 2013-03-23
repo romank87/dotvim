@@ -63,6 +63,8 @@ vmap <C-Down> xp`[V`]
 set undofile
 set undodir=~/.undovim
 
+"omnicompletion
+"autocmd FileType python set omnifunc=pythoncomplete#Complete
 
 set makeprg=bjam
 
