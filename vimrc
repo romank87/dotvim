@@ -63,15 +63,4 @@ vmap <C-Down> xp`[V`]
 set undofile
 set undodir=~/.undovim
 
-"omnicompletion
-"autocmd FileType python set omnifunc=pythoncomplete#Complete
-
-set makeprg=bjam
-
-let g:clang_use_library = 1
-let g:clang_library_path = "/usr/local/lib/"
-let g:clang_user_options='-DHA_SHARED="/ha_shared/ipmp/" -DPREFIX="opt/visonic/ipmp"'
-let g:clang_complete_copen=1
-let g:clang_hl_errors=1
-let g:clang_debug=1
-
+let g:ycm_global_ycm_extra_conf = '~/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py'
