@@ -2,6 +2,8 @@ My vim configuration.
 
 Installation:
     git clone https://github.com/romank87/dotvim.git ~/.vim
+      or
+    git clone git@github.com:romank87/dotvim.git ~/.vim
     cd ~/.vim
     git submodule init
     git submodule update
