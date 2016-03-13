@@ -21,7 +21,7 @@ set ignorecase
 "set incsearch
 
 set listchars=tab:.\ ,trail:.,nbsp:%
-colorscheme torte
+colorscheme default
 
 nmap <C-J> 5j
 nmap <C-K> 5k
