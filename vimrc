@@ -64,3 +64,5 @@ set undofile
 set undodir=~/.undovim
 
 let g:ycm_global_ycm_extra_conf = '~/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py'
+"let g:ycm_enable_diagnostic_highlighting=0
+let g:ycm_show_diagnostics_ui=0
